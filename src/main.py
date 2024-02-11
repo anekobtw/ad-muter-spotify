@@ -32,7 +32,7 @@ def main():
         else:
             set_app_mute_state('Spotify.exe', False)
 
-        time.sleep(0.5)
+        time.sleep(3) # Increase the delay if the program eliminates
 
 
 if __name__ == '__main__':
