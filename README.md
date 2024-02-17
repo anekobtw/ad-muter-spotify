@@ -1,8 +1,8 @@
-# No Ads Spotify
+# Add Muter Spotify
 ![licence](https://img.shields.io/badge/License-MIT-green.svg)
 ![version](https://img.shields.io/badge/Version-1.0.0-blue)
 
-No Ads Spotify is a Python script designed to mute advertisements while using the Spotify desktop application. It achieves this by monitoring the currently playing track on Spotify and muting the application whenever an advertisement is detected. Once the advertisement ends, the application will be unmuted automatically.
+Add Muter is a Python script designed to mute advertisements while using the Spotify desktop application. It achieves this by monitoring the currently playing track on Spotify and muting the application whenever an advertisement is detected. Once the advertisement ends, the application will be unmuted automatically.
 
 ## Installation
 - Clone the repository or download the source code.
