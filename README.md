@@ -16,4 +16,4 @@ Add Muter is a Python script designed to mute advertisements while using the Spo
  - [pycaw](https://github.com/AndreMiras/pycaw) - Python Core Audio Windows Library for accessing and manipulating audio on Windows.
 
 ## Contributing
-Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the [GitHub repository](https://github.com/anekobtw/ad-muter-spotify)https://github.com/anekobtw/ad-muter-spotify.
+Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the [GitHub repository](https://github.com/anekobtw/ad-muter-spotify).
