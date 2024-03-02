@@ -2,10 +2,9 @@ import time
 
 import spotipy
 import spotipy.util as util
-from pycaw.pycaw import AudioUtilities
-
 from config import (SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET,
                     SPOTIFY_REDIRECT_URI, scope, username)
+from pycaw.pycaw import AudioUtilities
 
 
 def set_app_mute_state(app_name: str, mute: bool) -> None:
